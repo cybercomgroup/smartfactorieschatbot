@@ -1,0 +1,14 @@
+C:\Users\Marcus\thisisnothappening\qnaBoi\bin\Debug\netcoreapp2.1\qnaBoi.deps.json
+C:\Users\Marcus\thisisnothappening\qnaBoi\bin\Debug\netcoreapp2.1\qnaBoi.runtimeconfig.json
+C:\Users\Marcus\thisisnothappening\qnaBoi\bin\Debug\netcoreapp2.1\qnaBoi.runtimeconfig.dev.json
+C:\Users\Marcus\thisisnothappening\qnaBoi\bin\Debug\netcoreapp2.1\qnaBoi.dll
+C:\Users\Marcus\thisisnothappening\qnaBoi\bin\Debug\netcoreapp2.1\qnaBoi.pdb
+C:\Users\Marcus\thisisnothappening\qnaBoi\obj\Debug\netcoreapp2.1\qnaBoi.csprojAssemblyReference.cache
+C:\Users\Marcus\thisisnothappening\qnaBoi\obj\Debug\netcoreapp2.1\qnaBoi.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\thisisnothappening\qnaBoi\obj\Debug\netcoreapp2.1\qnaBoi.RazorAssemblyInfo.cache
+C:\Users\Marcus\thisisnothappening\qnaBoi\obj\Debug\netcoreapp2.1\qnaBoi.RazorAssemblyInfo.cs
+C:\Users\Marcus\thisisnothappening\qnaBoi\obj\Debug\netcoreapp2.1\qnaBoi.AssemblyInfoInputs.cache
+C:\Users\Marcus\thisisnothappening\qnaBoi\obj\Debug\netcoreapp2.1\qnaBoi.AssemblyInfo.cs
+C:\Users\Marcus\thisisnothappening\qnaBoi\obj\Debug\netcoreapp2.1\qnaBoi.RazorTargetAssemblyInfo.cache
+C:\Users\Marcus\thisisnothappening\qnaBoi\obj\Debug\netcoreapp2.1\qnaBoi.dll
+C:\Users\Marcus\thisisnothappening\qnaBoi\obj\Debug\netcoreapp2.1\qnaBoi.pdb

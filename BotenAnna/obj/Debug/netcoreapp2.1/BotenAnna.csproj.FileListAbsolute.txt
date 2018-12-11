@@ -1,0 +1,11 @@
+C:\Users\Marcus\thisisnothappening\qnaBoi\bin\Debug\netcoreapp2.1\BotenAnna.deps.json
+C:\Users\Marcus\thisisnothappening\qnaBoi\bin\Debug\netcoreapp2.1\BotenAnna.runtimeconfig.json
+C:\Users\Marcus\thisisnothappening\qnaBoi\bin\Debug\netcoreapp2.1\BotenAnna.runtimeconfig.dev.json
+C:\Users\Marcus\thisisnothappening\qnaBoi\bin\Debug\netcoreapp2.1\BotenAnna.dll
+C:\Users\Marcus\thisisnothappening\qnaBoi\bin\Debug\netcoreapp2.1\BotenAnna.pdb
+C:\Users\Marcus\thisisnothappening\qnaBoi\obj\Debug\netcoreapp2.1\BotenAnna.csprojAssemblyReference.cache
+C:\Users\Marcus\thisisnothappening\qnaBoi\obj\Debug\netcoreapp2.1\BotenAnna.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\thisisnothappening\qnaBoi\obj\Debug\netcoreapp2.1\BotenAnna.AssemblyInfoInputs.cache
+C:\Users\Marcus\thisisnothappening\qnaBoi\obj\Debug\netcoreapp2.1\BotenAnna.AssemblyInfo.cs
+C:\Users\Marcus\thisisnothappening\qnaBoi\obj\Debug\netcoreapp2.1\BotenAnna.dll
+C:\Users\Marcus\thisisnothappening\qnaBoi\obj\Debug\netcoreapp2.1\BotenAnna.pdb
